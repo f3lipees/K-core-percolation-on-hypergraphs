@@ -1,3 +1,21 @@
+/**************************************************************************************************
+ * If you use this code, please cite:
+ 
+ G. Bianconi and S. N. Dorogovstev 
+ "Nature of hypergraph k-core percolation problems" 
+ Physical Review E, 109, 014307 (2024).
+ 
+***************************************************************************************************
+ * Code that  generates random hypergraph and performs (2ng neighbour) hyperedge (k,s)-core percolation 
+ * This code uses:
+ * N  Number of nodes
+ * M number of hyperedges
+ * Kcore  k of the core
+ * Ncore  s of the core
+ *
+ * Nrunmax  Number of MonteCarlo simulations
+ *************************************************************************************************/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
