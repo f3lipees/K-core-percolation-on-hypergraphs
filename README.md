@@ -2,7 +2,7 @@
 
 This repository contains:
 
-1.'Kcore_hypergraph.c'
+1. 'Kcore_hypergraph.c'
 
 This is a c code to perform  Monte Carlo simulations of Hypegraph Kcore percolation  on a  random hypergraph.
 
@@ -10,7 +10,7 @@ This is a c code to perform  Monte Carlo simulations of Hypegraph Kcore percolat
 
 This is a c code to perform  Monte Carlo simulations of Kcore 2nd neighbour node percolation on a random hypegraph. 
 
-3. 'Kcore_hypergraph_2nd_neighbour_Hyperedg.c'
+3. 'Kcore_hypergraph_2nd_neighbour_Hyperedge.c'
 
 This is a c code to perform  Monte Carlo simulations of Kcore 2nd neighbour hyperedge percolation on a random hypegraph. 
    
